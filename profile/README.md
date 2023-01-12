@@ -1,6 +1,6 @@
 <header>
   <p align="center">
-    <img src=".github/ptofile/images/geoid-logo_light.png" width="20%" height="20%" alt="Geoid Logo">
+    <img src=".github/profile/images/geoid-logo_light.png" width="20%" height="20%" alt="Geoid Logo">
   </p>
   <h1 align='center' style='border-bottom: none;'>Geoid</h1>
   <h3 align='center'>Spatial Operating System</h3>
