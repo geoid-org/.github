@@ -1,11 +1,10 @@
 <header>
   <p align="center">
-    <img src=".github/profile/images/geoid-logo_light.png" width="20%" height="20%" alt="Geoid Logo">
+    <img src="profile/images/geoid-logo_light.png" width="20%" height="20%" alt="Geoid Logo">
   </p>
   <h1 align='center' style='border-bottom: none;'>Geoid</h1>
   <h3 align='center'>Spatial Operating System</h3>
 </header>
-
 
 
 **Geoid is a spatial operating system that covers our entire planet with an extended intelligent dimension.**
