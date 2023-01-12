@@ -5,7 +5,7 @@
   <h1 align='center' style='border-bottom: none;'>Geoid</h1>
   <h3 align='center'>Spatial Operating System</h3>
 </header>
-
+<br>
 
 **Geoid is a spatial operating system that covers our entire planet with an extended intelligent dimension.**
 
@@ -49,7 +49,7 @@ This self-organizing network bridges our virtual and physical environments and i
 
 **Standards**
     
-- [earth.txt](https://github.com/geoid-org/earth-txt)
+- [Well-Known Space](https://github.com/geoid-org/wellknown-space)
 - [Geoid Standard Proposals](https://github.com/geoid-org/geoid-standard-proposals)
 
 
