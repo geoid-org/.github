@@ -1,10 +1,12 @@
 <header>
   <p align="center">
-    <img src=".github/images/geoid-logo_light.png" width="20%" height="20%" alt="Geoid Logo">
+    <img src=".github/ptofile/images/geoid-logo_light.png" width="20%" height="20%" alt="Geoid Logo">
   </p>
-  <h1 align='center' style='border-bottom: none;'>space.txt</h1>
-  <h3 align='center'>A well-known .txt file for spatial identification.</h3>
+  <h1 align='center' style='border-bottom: none;'>Geoid</h1>
+  <h3 align='center'>Spatial Operating System</h3>
 </header>
+
+
 
 **Geoid is a spatial operating system that covers our entire planet with an extended intelligent dimension.**
 
