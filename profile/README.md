@@ -12,9 +12,7 @@
 This self-organizing network bridges our virtual and physical environments and is formed by all the people of our planet and the information and communication technologies that connect them. Geoid functions as a nervous system that mediates the data we produce and use in our daily lives, adds value to interconnectivity and cherishes spontaneous connections between people and the places and things they love.
 
 
-
 <div align="center">
-
 
 ##### [geoid.org](https://www.geoid.org/)
 
@@ -28,7 +26,6 @@ This self-organizing network bridges our virtual and physical environments and i
 
 - [Dymaxion](https://github.com/geoid-org/dymaxion)
 
-    
 </td><td valign="top">
 <img width="300" height="1" />
     
@@ -37,9 +34,6 @@ This self-organizing network bridges our virtual and physical environments and i
 - [Meta Marble](https://github.com/geoid-org/meta-marble)
 - [Earth Observer](https://github.com/geoid-org/earth-observer)
 
-    
-
-    
 </td><td valign="top">
 <img width="300" height="1" />
 
@@ -52,7 +46,5 @@ This self-organizing network bridges our virtual and physical environments and i
 - [Well-Known Space](https://github.com/geoid-org/wellknown-space)
 - [Geoid Standard Proposals](https://github.com/geoid-org/geoid-standard-proposals)
 
-
-    
 </td></tr></tbody></table>
 </div>
